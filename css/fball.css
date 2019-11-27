@@ -1,0 +1,48 @@
+.scheduletable {
+    border: 1px solid black;
+    margin:auto;              /**  centers the table */
+}
+
+.scheduletable td {
+     text-align:center;
+     border: 1px solid black;
+}
+
+.tteamsched  table {
+        border: 1px solid black;
+}
+
+.tteamsched table td {
+		border: 1px solid #cecfd5;
+        padding: 10px 15px;
+}
+
+.leaguetable {
+    border: 1px solid blue;
+    margin:auto;              /**  centers the table */
+}
+
+.leaguetable td {
+     text-align:center;
+     border: 1px solid blue;
+}
+
+.favpick {
+      background-color: #ADD8E6;      /* Light Blue  */
+}
+
+.dogpick {
+      background-color: #DAA520;      /* Golden Rod */
+}
+
+.winpick {
+      background-color: #7CFC00;     /* lawn green */
+}
+
+.lostpick {
+      background-color: #FF4500;     /* orange red */
+}
+
+.grid_split  {
+      background-color: black;     
+}
